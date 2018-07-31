@@ -1,0 +1,7 @@
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\bin\Debug\LargestPalindrome.exe.config
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\bin\Debug\LargestPalindrome.exe
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\bin\Debug\LargestPalindrome.pdb
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\obj\Debug\LargestPalindrome.csprojResolveAssemblyReference.cache
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\obj\Debug\LargestPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\obj\Debug\LargestPalindrome.exe
+C:\Users\Overlord\Documents\GitHub\LargestPalindrome\LargestPalindrome\LargestPalindrome\obj\Debug\LargestPalindrome.pdb
